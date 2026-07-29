@@ -1,0 +1,33 @@
+Login Page README
+
+Overview
+
+The Login Page is the entry point of the application. It allows registered users to securely access the app by entering their login credentials.
+
+Features
+
+- User login using email/phone number and password
+- Input validation for login fields
+- Secure authentication
+- Error message for invalid credentials
+- Navigation to the Home Page after successful login
+- Link to the Registration Page for new users
+
+Technologies Used
+
+- Flutter
+- Dart
+- Material Design
+
+Workflow
+
+1. Open the application.
+2. Enter the email or phone number.
+3. Enter the password.
+4. Click the Login button.
+5. If the credentials are correct, the user is redirected to the Home Page.
+6. If the credentials are incorrect, an error message is displayed.
+
+Conclusion
+
+The Login Page provides a secure and user-friendly way for users to access the application. It ensures that only authenticated users can use the app's features.
